@@ -1,0 +1,4 @@
+cmd_/home/lihuibng/wuyuangui/zip/v8-master/out/native/obj.target/icudata/third_party/icu/linux/icudtl_dat.o := cc '-DU_USING_ICU_NAMESPACE=0' '-DHAVE_DLOPEN=0' '-DUCONFIG_NO_NON_HTML5_CONVERSION=1' '-DV8_TARGET_ARCH_X64' '-DU_HIDE_DATA_SYMBOL' -I../third_party/icu/source/common -I../third_party/icu/source/i18n  -Wall -W -Wno-unused-parameter -Wno-long-long -pthread -fno-exceptions -pedantic -ansi -fPIC -m64 -fdata-sections -ffunction-sections -O3  -MMD -MF /home/lihuibng/wuyuangui/zip/v8-master/out/native/.deps//home/lihuibng/wuyuangui/zip/v8-master/out/native/obj.target/icudata/third_party/icu/linux/icudtl_dat.o.d.raw  -c -o /home/lihuibng/wuyuangui/zip/v8-master/out/native/obj.target/icudata/third_party/icu/linux/icudtl_dat.o ../third_party/icu/linux/icudtl_dat.S
+/home/lihuibng/wuyuangui/zip/v8-master/out/native/obj.target/icudata/third_party/icu/linux/icudtl_dat.o: \
+ ../third_party/icu/linux/icudtl_dat.S
+../third_party/icu/linux/icudtl_dat.S:

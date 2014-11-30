@@ -1,0 +1,1 @@
+cmd_/home/lihuibng/wuyuangui/zip/v8-master/out/native/obj.target/tools/gyp/generate_trig_table.stamp := touch /home/lihuibng/wuyuangui/zip/v8-master/out/native/obj.target/tools/gyp/generate_trig_table.stamp
